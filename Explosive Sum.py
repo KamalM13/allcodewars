@@ -7,3 +7,4 @@ def exp_sum(n):
             number[j] += number[j-i]
     return number[n]/2
   
+#problem link:https://www.codewars.com/kata/52ec24228a515e620b0005ef
